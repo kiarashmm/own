@@ -1,3 +1,1 @@
-vless://5862f106-f272-4b1b-afd4-2c75f704ec18@chatgpt.com:443?encryption=none&security=tls&sni=restlESS-DIsK-c075.k2kIA-Kk-18f.WORKerS.dEV&fp=chrome&type=ws&host=restless-disk-c075.k2kia-kk-18f.workers.dev&path=%2FeyJqdW5rIjoiVzVtQ0RxS1NzTXQ4VzZCIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560#%F0%9F%92%A6%20Best%20Fragment%20%F0%9F%98%8E
-
-vless://5862f106-f272-4b1b-afd4-2c75f704ec18@chatgpt.com:443?encryption=none&security=tls&sni=restlESS-DIsK-c075.k2kIA-Kk-18f.WORKerS.dEV&fp=chrome&type=ws&host=restless-disk-c075.k2kia-kk-18f.workers.dev&path=%2FeyJqdW5rIjoiVzVtQ0RxS1NzTXQ4VzZCIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560#%F0%9F%92%A6%20Best%20Fragment%20%F0%9F%98%8E
+vless://75ff6488-fde6-4749-acef-969a1237f014@94.183.156.113:2053?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TUN3%20x1.5
